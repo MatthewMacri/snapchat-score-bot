@@ -1,0 +1,4 @@
+snapscore_log.csv
+*.png
+__pycache__/
+.env
