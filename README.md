@@ -1,11 +1,8 @@
 # SnapScore Pixel - Automated Snapchat Score Bot
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![ADB](https://img.shields.io/badge/Android-ADB-green.svg)](https://developer.android.com/tools/adb)
-[![Tested on Pixel 7](https://img.shields.io/badge/Tested%20on-Pixel%207-4285F4.svg)](https://google.com/pixel/)
+Automatically send Snapchat snaps to a predefined shortcut group using ADB (Android Debug Bridge). Built and tested on Pixel 7 with October 2026 Snapchat layout.
 
-Automatically send Snapchat snaps to your Shortcut group using ADB (Android Debug Bridge). Built and tested on Pixel 7 with October 2026 Snapchat layout.
+**Requirements:** Python 3.8+, Android phone with USB debugging enabled
 
 ## Features
 
