@@ -1,4 +1,98 @@
-snapscore_log.csv
-*.png
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs
+*.log
+logs/
+
+# CSV Logs (local only)
+snapscore_log.csv
+overnight_log.txt
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+screenshots/
+
+# Config (local overrides)
+config.local.py
 .env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Node (if used)
+node_modules/
+package-lock.json
+
+# Misc
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Test outputs
+test_*.png
+debug*.png
